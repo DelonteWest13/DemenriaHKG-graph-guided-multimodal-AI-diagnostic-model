@@ -1,0 +1,9 @@
+has_Tesla	0
+has_age_bin	1
+has_apoe	2
+has_cdr	3
+has_lm_del	4
+has_lm_imm	5
+has_mmse	6
+has_sex	7
+visit_phase	8
