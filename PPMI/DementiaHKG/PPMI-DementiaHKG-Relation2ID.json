@@ -1,0 +1,19 @@
+{
+    "anatomy_anatomy": 0,
+    "anatomy_protein_absent": 1,
+    "anatomy_protein_present": 2,
+    "bioprocess_bioprocess": 3,
+    "bioprocess_protein": 4,
+    "cellcomp_cellcomp": 5,
+    "cellcomp_protein": 6,
+    "disease_disease": 7,
+    "disease_phenotype_negative": 8,
+    "disease_phenotype_positive": 9,
+    "disease_protein": 10,
+    "molfunc_molfunc": 11,
+    "molfunc_protein": 12,
+    "pathway_protein": 13,
+    "phenotype_phenotype": 14,
+    "phenotype_protein": 15,
+    "protein_protein": 16
+}

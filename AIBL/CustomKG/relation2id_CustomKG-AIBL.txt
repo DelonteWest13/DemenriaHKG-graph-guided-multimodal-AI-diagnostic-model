@@ -1,0 +1,7 @@
+has_age_bin	0
+has_apoe	1
+has_cdr	2
+has_gender	3
+has_lm_del	4
+has_lm_imm	5
+has_mmse	6

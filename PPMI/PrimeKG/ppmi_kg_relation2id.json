@@ -1,1 +1,0 @@
-{"anatomy_protein_absent": 0, "anatomy_protein_present": 1, "bioprocess_bioprocess": 2, "bioprocess_protein": 3, "disease_disease": 4, "disease_phenotype_negative": 5, "disease_phenotype_positive": 6, "disease_protein": 7, "has_attribute": 8, "has_symptom": 9, "pathway_pathway": 10, "pathway_protein": 11, "phenotype_phenotype": 12, "phenotype_protein": 13, "protein_protein": 14}
